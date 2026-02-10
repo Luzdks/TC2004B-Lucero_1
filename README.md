@@ -1,8 +1,8 @@
 # TC2004B - Análisis de Ciencia de Datos
 
-**Nombre:** Lucero Díaz Ortega
-**Matrícula:** A01199346
-**Semestre:** Febrero-Junio 2026
+**Nombre:** Lucero Díaz Ortega   
+**Matrícula:** A01199346   
+**Semestre:** Febrero-Junio 2026   
 
 ## Descripción
 
