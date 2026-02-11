@@ -1,0 +1,20 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Lucero Díaz Ortega
+Matrícula: A01199346
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Porque es requisito para mi carrera y estos conocimientos me ayudarán en mi vida profesional.
+
+¿Qué espero aprender?
+Concer y desarrollar diversas herramientas tecnológicas, así como también tener la habilidad de identificar problemáticas y áreas de oportunidad a través del análisis de datos.
+
+Herramientas que ya conozco:
+- Python
+- Github
+
+Herramientas nuevas para mí:
+- Jupyter
+- SQL
