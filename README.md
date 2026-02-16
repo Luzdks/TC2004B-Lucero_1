@@ -10,7 +10,7 @@ Repositorio personal para el curso TC2004B. Contiene notebooks y proyectos del s
 
 ## Estructura
 
-TC2004B-Lucero/
+TC2004B-Lucero_1/
 ├── README.md
 ├── .gitignore
 ├── notebooks/      # Jupyter Notebooks
